@@ -1,0 +1,22 @@
+.navbar-container{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    align-items:center;
+    justify-content: space-between;
+    position: sticky;
+    background-color: white;
+    top: 0;
+    box-shadow: 0px 5px 10px -9px black;
+}
+.left-side{
+    display: flex;
+    justify-content: space-between;
+}
+.center-side{
+    display: flex;
+}
+.right-side{
+    display: flex;
+    align-items:center;
+}

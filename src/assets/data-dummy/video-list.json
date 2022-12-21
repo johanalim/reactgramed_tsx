@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Rekaman Yuk",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    },
+    {
+      "id": 2,
+      "title": "Belum Makan Enak",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    },
+    {
+      "id": 3,
+      "title": "Pingin Siaran",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    }
+  ]

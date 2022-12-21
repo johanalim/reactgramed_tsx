@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Avengers",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    },
+    {
+      "id": 2,
+      "title": "Blank Panther",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    },
+    {
+      "id": 3,
+      "title": "Batman",
+      "detail": "",
+      "tips": true,
+      "tipsDetail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
+    }
+  ]
